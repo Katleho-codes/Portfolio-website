@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+html {
+	scroll-behavior: smooth;
+}
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+:root {
+	--c1: #242625;
+	--c2: #3e403f;
+	--c3: #f2f2f2;
+	--c4: #8c8c8c;
+	--c5: #0d0d0d;
+	--c6: #2148bf;
+	--c7: #2e5ff2;
+	--c8: #162d73;
+	--c9: #3b6fd9;
+	--c10: #72a9f2;
+}
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {
+	.example {background: red;}
+  } */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {
+	.example {background: green;}
+  } */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {
+	.example {background: blue;}
+  }  */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {
+	.example {background: orange;}
+  } 
+   */
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {
+	.example {background: pink;}
+  } */
